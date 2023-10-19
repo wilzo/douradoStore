@@ -1,0 +1,21 @@
+.navbar{
+    margin-left: 500px;
+    
+}
+
+.row bg-success{
+    align-items: center;
+}
+
+.btn btn-warning rounded-0{
+    align-items: center;
+}
+
+.verdao{
+    background-color: #c3e6cb;
+}
+
+.table td{
+    border: none !important;
+}
+
